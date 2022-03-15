@@ -1,5 +1,5 @@
 {
-  "name": "RFK-Bot",
+  "name": "Mian-Bot",
   "version": "4.5.0.5",
   "description": "WhatsApp Bot",
   "depecrated": false,
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/RTeam1/RFK-Bot",
+  "homepage": "https://github.com/mianafzaal/RFK-Bot",
   "author": {
-    "name": "RTeam1"
+    "name": "Mian"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTeam1/RFK-Bot.git"
+    "url": "git+https://github.com/mianafzaal/RFK-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/RTeam1/RFK-Bot/issues"
+    "url": "https://github.com/mianafzaal/RFK-Bot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
