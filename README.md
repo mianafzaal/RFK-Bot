@@ -20,7 +20,7 @@ lolkey = 'rey2k22'
 ## Install
 
 ```bash
-git clone https://github.com/RTeam1/RFK-Bot
+git clone https://github.com/mianafzaal/RFK-Bot
 cd RFK-Bot
 npm install
 npm start
